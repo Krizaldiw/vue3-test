@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "title": "Americano",
+    "price": 3.4,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Americano"
+  },
+  {
+    "id": 2,
+    "title": "Avocado Sandwich",
+    "price": 7,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Avocado%20Sandwich"
+  },
+  {
+    "id": 3,
+    "title": "Balkan Pizza",
+    "price": 14,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Balkan%20Pizza"
+  },
+  {
+    "id": 4,
+    "title": "Beef Burger",
+    "price": 13.5,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Beef%20Burger"
+  },
+  {
+    "id": 5,
+    "title": "Beef Rendang",
+    "price": 16.59,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Beef%20Rendang"
+  },
+  {
+    "id": 6,
+    "title": "Black Burger",
+    "price": 15.53,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Black%20Burger"
+  },
+  {
+    "id": 7,
+    "title": "Bolognesse Spaghetti",
+    "price": 11.57,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Bolognese%20Spaghetti"
+  },
+  {
+    "id": 8,
+    "title": "Cheese Burger",
+    "price": 9.68,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Cheese%20Burger"
+  },
+  {
+    "id": 9,
+    "title": "Chicken Smackdown",
+    "price": 10.15,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Chicken%20Smackdown"
+  },
+  {
+    "id": 10,
+    "title": "Egg Sandwich",
+    "price": 5.28,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Egg%20Sandwich"
+  },
+  {
+    "id": 11,
+    "title": "French Fries",
+    "price": 4.25,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/French%20Fries"
+  },
+  {
+    "id": 12,
+    "title": "Fried Chicken",
+    "price": 6.86,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Fried%20Chicken"
+  },
+  {
+    "id": 13,
+    "title": "Hot Capuccino",
+    "price": 3.75,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Hot%20Capuccino%20"
+  },
+  {
+    "id": 14,
+    "title": "Hotdog",
+    "price": 5.69,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Hotdog"
+  },
+  {
+    "id": 15,
+    "title": "Ice Lemonade",
+    "price": 2.35,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Ice%20Lemonade"
+  },
+  {
+    "id": 16,
+    "title": "Lalapan",
+    "price": 1.5,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Lalapan"
+  },
+  {
+    "id": 17,
+    "title": "Magelangan",
+    "price": 8.45,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Magelangan"
+  },
+  {
+    "id": 18,
+    "title": "Matcha Tea",
+    "price": 4.29,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Matcha%20Tea"
+  },
+  {
+    "id": 19,
+    "title": "Mineral Water",
+    "price": 1.45,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Mineral%20Water"
+  },
+  {
+    "id": 20,
+    "title": "Rice",
+    "price": 3.50,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Rice%20"
+  },
+  {
+    "id": 21,
+    "title": "Rosella Tea",
+    "price": 4.67,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Rosella%20Tea"
+  },
+  {
+    "id": 22,
+    "title": "Sirloin Steak",
+    "price": 13.53,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Sirloin%20Steak"
+  },
+  {
+    "id": 23,
+    "title": "Sushi",
+    "price": 7.49,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Sushi"
+  },
+  {
+    "id": 24,
+    "title": "Tenderloin Steak",
+    "price": 14.56,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Tenderloin%20Steak"
+  },
+  {
+    "id": 25,
+    "title": "Vegan Pizza",
+    "price": 8.72,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Vegan%20Pizza"
+  },
+  {
+    "id": 26,
+    "title": "Vegan Salad",
+    "price": 6.25,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Vegan%20Salad"
+  },
+  {
+    "id": 27,
+    "title": "Shrimp Black Pepper",
+    "price": 9.55,
+    "imgUrl": "https://jmxvjvvpepfgvydlzekk.supabase.co/storage/v1/object/public/item-produk/Shrimp%20Black%20Pepper%20"
+  }
+]
+
+
